@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/sakth/OneDrive/Learning%27s/project/MEDIFLOW/pages/_document.js"],"sourcesContent":["import Document, { Html, Head, Main, NextScript } from 'next/document'\r\n\r\nclass MyDocument extends Document {\r\n  render() {\r\n    return (\r\n      <Html lang=\"en\">\r\n        <Head>\r\n          <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\r\n          <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossOrigin=\"anonymous\" />\r\n          <link href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap\" rel=\"stylesheet\" />\r\n        </Head>\r\n        <body>\r\n          <Main />\r\n          <NextScript />\r\n        </body>\r\n      </Html>\r\n    )\r\n  }\r\n}\r\n\r\nexport default MyDocument\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,mBAAmB,oIAAQ;IAC/B,SAAS;QACP,qBACE,qKAAC,iIAAI;YAAC,MAAK;;8BACT,qKAAC,iIAAI;;sCACH,qKAAC;4BAAK,KAAI;4BAAa,MAAK;;;;;;sCAC5B,qKAAC;4BAAK,KAAI;4BAAa,MAAK;4BAA4B,aAAY;;;;;;sCACpE,qKAAC;4BAAK,MAAK;4BAAmF,KAAI;;;;;;;;;;;;8BAEpG,qKAAC;;sCACC,qKAAC,iIAAI;;;;;sCACL,qKAAC,uIAAU;;;;;;;;;;;;;;;;;IAInB;AACF;uCAEe"}}]
+}

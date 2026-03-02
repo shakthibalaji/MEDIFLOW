@@ -1,0 +1,4 @@
+[00:00:03.804] Server  LOG     ✓ Ready in 3.3s
+[00:00:09.395] Server  LOG     ○ Compiling / ...
+[00:00:11.228] Server  WARN    [DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.
+[00:00:11.755] Browser WARN    [DEPRECATED] Default export is deprecated. Instead use `import { create } from 'zustand'`.
